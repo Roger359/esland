@@ -1,7 +1,7 @@
 ---
-import Logo from "../components/Logo.astro";
+import Logo from "@/components/Logo.astro";
 
-import { getI18n } from "../i18n/";
+import { getI18n } from "@/i18n/";
 const { currentLocale } = Astro;
 
 const i18n = getI18n({ currentLocale });
@@ -14,7 +14,7 @@ const i18n = getI18n({ currentLocale });
 		class="text-4xl font-semibold text-center text-wrap mx-auto mb-10 tracking-wide"
 	>
 		{i18n.INTRO_TITLE}<br />
-		{i18n.INTRO_TITLE_AFTER_BREAK}
+		{i18n}
 	</h1>
 	<p set:html={i18n.INTRO_DESCRIPTION_1} />
 	<p set:html={i18n.INTRO_DESCRIPTION_2} />
