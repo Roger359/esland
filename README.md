@@ -7,41 +7,9 @@
 <p>Created for didactic and educational purposes.</p>
 </div>
 
-<div align="center">
-    <a href="#" target="_blank">
-        Preview
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-getting-started">
-        Getting Started
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-commands">
-        Commands
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-license">
-        License
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://www.youtube.com/c/midudev">
-        YouTube
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://twitter.com/midudev">
-        Twitter
-    </a>
-</div>
 
-<p></p>
-
-<div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/esland-web)
-![GitHub issues](https://img.shields.io/github/issues/midudev/esland-web)
-![GitHub forks](https://img.shields.io/github/forks/midudev/esland-web)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/esland-web)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 </div>
@@ -59,11 +27,7 @@
 
 ## 🚀 Getting Started
 
-1. [Fork](https://github.com/midudev/esland-web/fork) or clone this repository.
-
-```bash
-git clone git@github.com:midudev/esland-web.git
-```
+1
 
 2. Install the dependencies:
 
@@ -102,11 +66,7 @@ pnpm dev
 
 4. Open [**http://localhost:4321**](http://localhost:4321/) with your browser to see the result 🚀
 
-### 🤝 Contributing
 
-<a href="https://github.com/midudev/esland-web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/esland-web" />
-</a>
 
 ## 🧞 Commands
 
